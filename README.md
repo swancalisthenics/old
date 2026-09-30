@@ -3,7 +3,7 @@
 | Seite | Link | Beschreibung |
 |---|---|---|
 | **dev** | https://swancalisthenics.github.io/dev/ | Aktive Entwicklungsversion des Redesigns ("Aurora Glassmorphism") inkl. Mitgliederbereich (Supabase). Neues wird hier gebaut und getestet. |
-| **home** | https://swancalisthenics.github.io/home/ | Live-Website von Swan Calisthenics. Übernimmt jeweils den stabilen Stand aus dev. |
+| **home** | https://swancalisthenics.ch/ | Live-Website von Swan Calisthenics (eigene Domain, bei Infomaniak). Übernimmt jeweils den stabilen Stand aus dev. Die alte Adresse swancalisthenics.github.io/home/ leitet automatisch hierher um. |
 | **old** (dieses Repo) | https://swancalisthenics.github.io/old/ | Archiv der ursprünglichen Website vor dem Redesign (Schulprojekt M293 TBZ). GitHub Pages ist für dieses Repo aktuell nicht aktiv (Link liefert 404). |
 
 # Projektdokumentation
